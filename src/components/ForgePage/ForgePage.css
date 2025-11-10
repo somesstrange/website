@@ -1,0 +1,63 @@
+/* Цвет текста выделенной вкладки */
+.ant-menu-item-selected {
+  color: #fdf6e3 !important; /* светлый текст, как пергамент */
+}
+
+/* Цвет фона выделенной вкладки */
+.ant-menu-item-selected {
+  background-color: #583922 !important; /* бронзово-коричневый */
+}
+
+.ant-menu-submenu-arrow {
+    color: #fdf6e3 !important;
+}
+
+.background-style{
+background-image: url('/images/parchment.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+}
+
+.content-overlay {
+  background-color: rgba(43, 41, 41, 0.85); /* или #fdf6e3c5 */
+  border-radius: 8px;
+  opacity: 15%;
+  width: 100%;
+}
+
+.background-sider {
+  background-image: url('/images/leather.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.ant-menu-light .ant-menu-submenu-selected>.ant-menu-submenu-title{
+    color: #fdf6e3;
+}
+
+
+.ant-menu-title-content{
+    color: #fdf6e3;
+}
+
+.custom-weapons-table {
+  font-size: 18px;
+  font-family: 'Stonehenge', serif;
+  color: #3b2b1b;
+}
+
+.custom-weapons-table .ant-table-thead > tr > th {
+  background-color: #8d7052;
+  color: #fff;
+  font-weight: normal;
+  text-align: center;
+}
+
+.custom-weapons-table .ant-table-tbody > tr > td {
+  background-color: #fdf6e3;
+  border-bottom: 1px solid #beb09b;
+  text-align: center;
+}
+

@@ -1,0 +1,43 @@
+/* Удаляет обводку у сегодняшней даты */
+.ant-picker-cell-today .ant-picker-cell-inner::before {
+  border: none !important;
+}
+
+.ant-picker-calendar-header {
+  background-color: #3e2e20;
+  color: #fdf6e3;
+  font-weight: bold;
+}
+
+
+.ant-picker-cell-inner {
+  font-family: 'Stonehenge';
+  color: #3b2b1b;
+}
+
+.ant-picker-content th {
+  background-color: #c49a6c;
+  color: white;
+  font-weight: 500;
+}
+
+
+.ant-picker-calendar .ant-picker-cell-in-view.ant-picker-cell-selected:not(.ant-picker-cell-disabled) .ant-picker-cell-inner{
+  background: #886a4a;
+}
+
+:where(.css-dev-only-do-not-override-16efagy).ant-radio-button-wrapper-checked:not(.ant-radio-button-wrapper-disabled):first-child {
+    border-color: #8b5e2d;
+}
+
+.ant-radio-button-wrapper-checked:not(.ant-radio-button-wrapper-disabled) {
+    color: #3a3329;
+}
+
+.ant-picker-calendar {
+  background-color: #fdf6e3;
+  border: 2px solid #c49a6c;
+  font-family: 'Stonehenge', serif;
+}
+
+

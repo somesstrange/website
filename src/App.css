@@ -1,0 +1,30 @@
+body {
+  font-family: 'Stonehenge', serif; 
+  font-size: 30px !important;
+}
+
+@font-face {
+  font-family: 'Stonehenge';
+  src: url('/fonts/Stonehenge.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+
+.ant-menu-light.ant-menu-horizontal >.ant-menu-item-selected::after{
+    border-bottom-color: #fdf6e3;
+}
+
+.ant-menu-light.ant-menu-light.ant-menu-horizontal >.ant-menu-item:hover::after{
+    border-bottom-color: #fdf6e3;
+}
+
+
+.ant-typography a {
+    color: #d83e3e;
+}
+
+.ant-typography a:hover {
+    color: #6d3b3b;
+}
+
