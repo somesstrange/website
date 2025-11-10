@@ -6,7 +6,7 @@ import { Breadcrumb, Divider, Layout, Menu, theme, Typography, Flex,
 const { Header, Content, Footer, Sider } = Layout;
 const { Title, Text, Paragraph, Link } = Typography;
 import dayjs from 'dayjs';
-import address from 'D:/diploma/src/assets/address.jpg';
+import address from "../../../assets/address.jpg"
 
 
         
