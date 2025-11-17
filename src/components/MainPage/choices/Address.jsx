@@ -14,6 +14,14 @@ const Address = () => {
 
   return (
     <>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-H8Z1LGX5ZL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)}
+  gtag('js', new Date());
+
+  gtag('config', 'G-H8Z1LGX5ZL');
+</script>
     <Flex vertical='true' style={{width: 1500, height: 200, overflow: scroll}}>
         <Title>Адрес клуба</Title>
     <Divider variant='solid'/>

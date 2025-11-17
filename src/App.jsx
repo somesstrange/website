@@ -65,6 +65,7 @@ const App = () => {
   };
 
   return (
+    
     <ConfigProvider
       theme={{
         token: {
@@ -74,6 +75,14 @@ const App = () => {
         }
       }}
     >
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-H8Z1LGX5ZL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)}
+  gtag('js', new Date());
+
+  gtag('config', 'G-H8Z1LGX5ZL');
+</script>
       <Layout style={{height: 940, width: 1843}}>
         <Layout style={{height: 870, width: 1843}}>
       <Header
