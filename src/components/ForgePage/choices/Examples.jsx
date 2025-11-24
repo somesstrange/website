@@ -19,17 +19,17 @@ const Examples = () => {
 
 
     <Flex gap={20}>
-        <Image width={400} src="/swords/1.jpg" /> 
-        <Image width={400} src="/swords/2.jpg" />  
-        <Image width={400} src="/swords/3.jpg" />
-        <Image width={400} src="/swords/4.jpg" /> 
+        <Image width={400} src="/website/swords/1.jpg" /> 
+        <Image width={400} src="/website/swords/2.jpg" />  
+        <Image width={400} src="/website/swords/3.jpg" />
+        <Image width={400} src="/website/swords/4.jpg" /> 
     </Flex>
     <p/>
     <Flex gap={20}>
-        <Image width={400} src="/swords/5.jpg" /> 
-        <Image width={400} src="/swords/6.jpg" />  
-        <Image width={400} src="/swords/7.jpg" />
-        <Image width={400} src="/swords/8.jpg" /> 
+        <Image width={400} src="/website/swords/5.jpg" /> 
+        <Image width={400} src="/website/swords/6.jpg" />  
+        <Image width={400} src="/website/swords/7.jpg" />
+        <Image width={400} src="/website/swords/8.jpg" /> 
     </Flex>
     
     </>
