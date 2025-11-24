@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { LaptopOutlined, NotificationOutlined, UserOutlined } from '@ant-design/icons';
 import { Breadcrumb, Layout, Menu, theme } from 'antd';
 const { Header, Content, Footer, Sider } = Layout;
-import News from './choices/news';
+import News from './choices/News';
 import Schedule from './choices/Schedule';
 import FirstDay from './choices/FirstDay';
 import Address from './choices/Address';
