@@ -5,7 +5,7 @@ body {
 
 @font-face {
   font-family: 'Stonehenge';
-  src: url('/fonts/Stonehenge.otf') format('opentype');
+  src: url('/website/fonts/Stonehenge.otf') format('opentype');
   font-weight: bold;
   font-style: normal;
 }
