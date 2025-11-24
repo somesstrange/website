@@ -19,6 +19,7 @@ const Sonca = () => {
 
   gtag('config', 'G-H8Z1LGX5ZL');
 </script>
+
     <Title>Свята Сонца</Title>
     <Divider variant='solid'/>
 

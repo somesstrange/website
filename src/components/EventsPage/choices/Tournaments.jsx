@@ -19,6 +19,7 @@ const Tournaments = () => {
 
   gtag('config', 'G-H8Z1LGX5ZL');
 </script>
+
     <Title>Весенний турнир клуба "Хроники Миров"</Title>
     <Divider variant='solid'/>
 

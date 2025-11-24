@@ -19,6 +19,7 @@ const Birthdays = () => {
 
   gtag('config', 'G-H8Z1LGX5ZL');
 </script>
+
     <Title>Дни рождения</Title>
     <Divider variant='solid'/>
 
